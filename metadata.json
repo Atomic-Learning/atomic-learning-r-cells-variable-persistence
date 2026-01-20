@@ -11,7 +11,8 @@
     ],
     "duration": 2,
     "prerequisites": [
-        "atomic-learning-r-cells"
+        "atomic-learning-r-cells",
+        "r-variables"
     ],
     "related": [
     ]
