@@ -1,22 +1,18 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: Variable Persistence in Python Cells",
+    "slug": "atomic-learning-r-cells-variable-persistence",
+    "description": "An introduction to the persistence of variables in R code cells on Atomic Learning content pages.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "r"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-r-cells"
     ],
     "related": [
-        "",
-        ""
     ]
 }
